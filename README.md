@@ -1,6 +1,6 @@
 Gra "Amelia"
 ------------
-Gra paragrafowa, projekt zaliczeniowy na Programowanie Obiektowe.
+Gra paragrafowa, projekt zaliczeniowy na Programowanie Obiektowe. /n
 Program napisany przez Andrzeja Małolepszego 253206;
 gra paragrafowa autorstwa Dominika Matusiaka,
 wyd. Wydawnictwo Wielokrotnego Wyboru.
