@@ -1,4 +1,4 @@
-# Gra paragrafowa "Amelia" test
+# Gra paragrafowa "Amelia"
 - Projekt zaliczeniowy na Programowanie Obiektowe.
 - Program napisany w C++ przez Andrzeja Małolepszego 253206;
 - Gra paragrafowa autorstwa Dominika Matusiaka,
